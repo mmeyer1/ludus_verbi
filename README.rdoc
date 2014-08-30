@@ -1,5 +1,5 @@
-Ludus Verbi
-===========
+<h1>Ludus Verbi</h1>
+
 
 This is a little app that will accept a block of text, scan and analyze the writing, and return advice and some options for rewriting
 to make it better, more elegant, and more correct English.
